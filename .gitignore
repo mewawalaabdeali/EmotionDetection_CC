@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+
+myenv
+ccemodet
+
 __pycache__/
 *.py[cod]
 
